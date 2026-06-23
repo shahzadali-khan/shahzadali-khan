@@ -1,9 +1,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=Shahzad%20Ali%20Khan&fontSize=40&fontColor=ffffff)
 
-# 👋 Hi there, I'm Shahzad Ali Khan  
-🚀 Full‑stack developer passionate about building clean, efficient, and scalable applications.
+# 👋 Hi there, I'm Shahzaaddd!!!  
+  Full‑stack developer passionate about building clean, efficient, and scalable applications.
 
----
+ 
 
 ## 🛠️ Tech Stack & Tools
 
@@ -30,16 +30,10 @@
 ---
 
 ## 🔭 What I'm Working On
-- Inventory Management System  
-- Learning React.js & Blazor  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahzadali-khan&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzadali-khan&layout=compact)
+- Inventory Management System
+- Job Tracker
+- Art & Craft SaaS product 
+- Learning Python, ML, AI, OpenClaw, Claud, Agentic-workflows, Aspire etc
 
 ---
 
@@ -47,11 +41,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=shahzadali-khan&theme=transparent)
 
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=shahzadali-khan&theme=flat&no-frame=true&margin-w=10)
+ 
 
 ---
 
@@ -65,11 +55,13 @@
 
 ![Metrics](https://metrics.lecoq.io/shahzadali-khan)
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahzadali-khan&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzadali-khan&layout=compact)
+
 ---
-
-## 🐍 Contribution Snake (requires workflow)
-
-![Snake animation](https://raw.githubusercontent.com/shahzadali-khan/shahzadali-khan/output/snake.svg)
 
 ---
 
